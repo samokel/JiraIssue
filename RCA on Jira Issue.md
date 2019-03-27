@@ -32,7 +32,7 @@ We have to add more monitoring plugins and modules to watch this critical part o
 
 ## Timeline
 
-2018-10-24 (*all times UTC*)
+27-03-2019 (*all times UTC*)
 
 | Time  | Description |
 | ----- | ----------- |
